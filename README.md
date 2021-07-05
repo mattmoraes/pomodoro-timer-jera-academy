@@ -9,3 +9,6 @@ According to the official website of Pomodoro's Technique creator, Francesco Cir
  6 - After 4 short breaks, take a longer break (20-30 minutes).
 In this project, I'm developing my own pomodoro timer to help people use the pomodoro technique.
 On the development, I used HTML, CSS and Javascript.
+Also, I used the Bootstrap Framework, to make things responsive. :)
+
+I used this YouTube video right here (https://www.youtube.com/watch?v=a7Kt7S_4HOA) as a base to my code.
