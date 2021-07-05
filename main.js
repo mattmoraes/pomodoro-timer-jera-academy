@@ -179,7 +179,7 @@ function long_break() {
 
                 // adiciona uma mensagem ao html
                 document.getElementById("done").innerHTML =
-                    "Sua pausa curta chegou ao fim! Podemos voltar ao trabalho! :)";
+                    "Sua pausa longa chegou ao fim! Podemos voltar ao trabalho! :)";
 
                 // torna visível a div da mensagem
                 document.getElementById("done").classList.add("show_message");
