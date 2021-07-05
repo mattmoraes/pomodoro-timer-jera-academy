@@ -1,0 +1,42 @@
+/* fundo do body e fonte */
+body {
+    background: #b0a6f0;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  /* cabeçalho */
+  .heading {
+    color: #40396d;
+  }
+  
+  /* timer */
+  .timer {
+    color: #40396d;
+    text-align: center;
+    width: 20rem;
+    height: 20rem;
+    border: 5px solid rgb(162, 0, 255);
+    border-radius: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .row {
+    width: 100%;
+  }
+  
+  /* remove o padding dos botões */
+  .buttons {
+    padding: 0;
+  }
+  
+  /* deixa a mensagem visível no html */
+  .show_message {
+    display: block;
+    padding: 1rem 0;
+    color: #272343;
+    background: #e3f6f5;
+    border-radius: 0.5rem;
+    transition: 0.5s ease;
+  }
